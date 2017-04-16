@@ -10,9 +10,11 @@ Classification of coriander (قزبر  in Moroccan dialect) and parsley (معد�
 Train: 464 images (137 for coriander and 327 for parsley)
 Validation: 170 images (77 coriander and 93 parsley)
 
-*Important*: For now, data is not big and classes are unbalanced, this is a simple try with a shallow net, I am sure there is a large margin of improvement through the use of class balancing or juste sampling more from the coriander class
+####Important:
+For now, data is not big and classes are unbalanced, this is a simple try with a shallow net, I am sure there is a large margin of improvement through the use of class balancing or juste sampling more from the coriander class
 
 This is the directory structure:
+'''
 data/
     train/
         coriander/
@@ -32,3 +34,4 @@ data/
             001.jpg
             002.jpg
             ...
+'''
