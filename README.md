@@ -1,10 +1,11 @@
 # Coriander-vs-Parsley
 
+!!! Need to comment the code and I will upload it soon !!!
+
 Classification of coriander (قزبر  in Moroccan dialect) and parsley (معدنوس in Moroccan dialect)
 
 @author: Redouane Lguensat
 
-> inspired from Keras Blog: https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 > Data is collected and provided by Ali Lakrakbi https://github.com/alilakrakbi/Coriander-vs-Parsley
 
 Train: 464 images (137 for coriander and 327 for parsley)
