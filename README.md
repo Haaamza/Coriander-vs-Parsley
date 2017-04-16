@@ -14,8 +14,8 @@ Validation: 170 images (77 coriander and 93 parsley)
 For now, data is not big and classes are unbalanced, this is a simple try with a shallow net, I am sure there is a large margin of improvement through the use of class balancing or juste sampling more from the coriander class
 
 This is the directory structure:
-
-* data/
+```
+data/
     train/
         coriander/
             001.jpg
@@ -34,3 +34,4 @@ This is the directory structure:
            001.jpg
            002.jpg
            ...
+```
