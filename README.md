@@ -1,8 +1,6 @@
 # Coriander-vs-Parsley
 
-!!! Need to comment the code and I will upload it soon !!!
-
-Classification of coriander (قزبر  in Moroccan dialect) and parsley (معدنوس in Moroccan dialect)
+Classification of coriander (قزبر  in Moroccan dialect) and parsley (معدنوس in Moroccan dialect): A modest try
 
 @author: Redouane Lguensat
 
@@ -12,7 +10,7 @@ Train: 464 images (137 for coriander and 327 for parsley)
 Validation: 170 images (77 coriander and 93 parsley)
 
 **Important**
-For now, data is not big and classes are unbalanced, this is a simple try with a shallow net, I am sure there is a large margin of improvement through the use of class balancing, fine-tuning with deeper nets or juste sampling more from the coriander class
+For now, data is not big (Keras example used 1000 examples from both classes) and classes are unbalanced, this is a simple try with a shallow net, I am sure there is a large margin of improvement through the use of class balancing, fine-tuning with deeper nets or just sampling more from the coriander class
 
 This is the directory structure:
 ```
