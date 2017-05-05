@@ -12,6 +12,9 @@ Validation: 170 images (77 coriander and 93 parsley)
 **Important**
 For now, data is not big (Keras example used 1000 examples from both classes) and classes are unbalanced, this is a simple try with a shallow net, I am sure there is a large margin of improvement through the use of class balancing, fine-tuning with deeper nets or just sampling more from the coriander class
 
+**Important2**
+Ignore the folder "dataset", extract the .rar file instead.
+
 This is the directory structure:
 ```
 data/
