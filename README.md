@@ -1,6 +1,6 @@
 # Coriander-vs-Parsley
 
-Classification of coriander (قزبر  in Moroccan dialect) and parsley (معدنوس in Moroccan dialect): A modest try
+Classification of coriander (قزبر  in Moroccan dialect) and parsley (معدنوس in Moroccan dialect): A modest try of data augmentation with Keras (TensorFlow backend)
 
 @author: Redouane Lguensat
 
