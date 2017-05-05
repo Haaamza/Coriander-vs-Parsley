@@ -136,6 +136,7 @@ model.fit_generator(
 ############## test
 from keras.preprocessing.image import img_to_array, load_img
 
+##### use your examples or just try with some images from the validation dataset
 img = load_img('coriander_example.jpg', target_size=(img_width, img_height))  # this is a PIL image
 x = img_to_array(img)  # this is a Numpy array with shape (3, 150, 150)
 x = x.reshape((1,) + x.shape)
